@@ -4,6 +4,6 @@ def using_while
   #your code here
   levitation_force < 10
   levitation_force += 1
-  puts "Wingardium Leviosa"
+  phrase = "Wingardium Leviosa"
 
 end
